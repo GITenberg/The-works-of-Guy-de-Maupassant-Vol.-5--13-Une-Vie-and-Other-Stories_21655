@@ -1,0 +1,31 @@
+_repo: The-works-of-Guy-de-Maupassant-Vol.-5--13-Une-Vie-and-Other-Stories_21655
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2007-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Short stories, French -- Translations into English'
+- !lcc 'PQ'
+title: "The works of Guy de Maupassant, Vol. 5\r\nUne Vie and Other Stories"
+url: http://www.gutenberg.org/ebooks/21655
